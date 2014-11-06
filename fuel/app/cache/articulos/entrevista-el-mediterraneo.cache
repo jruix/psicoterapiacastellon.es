@@ -1,0 +1,90 @@
+{{Fuel_Cache_Properties}}{"created":1412449480,"expiration":1412449510,"dependencies":[],"content_handler":"string"}{{/Fuel_Cache_Properties}}<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>CPSCS | Entrevista &quot;El Peri&oacute;dico Mediterr&aacute;neo&quot;</title>
+  	<link type="text/css" rel="stylesheet" href="http://psicoterapiacastellon.es/assets/css/foundation.min.css?1350067078" />
+  	<link type="text/css" rel="stylesheet" href="http://psicoterapiacastellon.es/assets/css/app.css?1351610081" />
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet'>
+  	<script type="text/javascript" src="http://psicoterapiacastellon.es/assets/js/modernizr.foundation.js?1350067114"></script>
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <!--[if lt IE 8]>
+    <div class="row">
+      <div class="twelve columns">
+        <div class="alert-box alert">
+          Lo lamentamos, pero tu versión de navegador no está soportada. Por favor, actualiza a la última versión, o instala un navegador que respete los estándares. Pulsa <a href="http://browsehappy.com/" target="_blank">aquí</a> para más información.
+        </div>
+      </div>
+    </div>
+  <![endif]-->
+  <div class="row">
+    <div class="three columns">
+      <h1>
+        <a href="http://psicoterapiacastellon.es/">
+          <img src="http://psicoterapiacastellon.es/assets/img/general/logo.png?1350730381" alt="" />        </a>
+      </h1>
+    </div>
+    <div class="nine columns">
+      <ul class="nav-bar right">
+        <li class=""><a href="http://psicoterapiacastellon.es/centro">El centro</a></li>
+        <li class=" has-flyout">
+          <a href="http://psicoterapiacastellon.es/cursos-y-actividades">Cursos y actividades</a>
+          <a href="#" class="flyout-toggle"><span> </span></a>
+          <ul class="flyout">
+                        <li><a href="http://psicoterapiacastellon.es/cursos-y-actividades#cursos">Cursos</a></li>
+            <li><a href="http://psicoterapiacastellon.es/cursos-y-actividades#gratuitas">Actividades gratuitas</a></li>
+            <li><a href="http://psicoterapiacastellon.es/cursos-y-actividades#psicoterapia">Psicoterapia</a></li>
+            <li><a href="http://psicoterapiacastellon.es/cursos-y-actividades#educacion">Educación sexual</a></li>
+          </ul>
+        </li>
+        <li class=""><a href="http://psicoterapiacastellon.es/contacto">Contacto</a></li>
+        <li><a target="_blank" href="http://blog.psicoterapiacastellon.es">Blog</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <h1>Entrevista &quot;El Peri&oacute;dico Mediterr&aacute;neo&quot;</h1>
+            <hr />
+    </div>
+  </div>
+
+  <div class="row">
+	<div class="twelve columns">
+		<img src="http://psicoterapiacastellon.es/assets/img/articulos/entrevista.jpg?1350728754" alt="" />	</div>
+</div>
+  <footer class="row hide-for-small">
+    <div class="eleven columns">
+      <hr />
+      <p class="small">&copy; 2012 Centro de Psicoterapia y Sexología de Castellón - Manuel Mestre Guardiola - 610 401 481 - Email: <a href="mailto:info@psicoterapiacastellon.es">info@psicoterapiacastellon.es</a></p>
+    </div> 
+  </footer>
+  <img id="footer" class="hide-for-small" src="http://psicoterapiacastellon.es/assets/img/general/footer.png?1350730412" alt="" />  	<script type="text/javascript" src="http://psicoterapiacastellon.es/assets/js/foundation.min.js?1350067113"></script>
+  	<script type="text/javascript" src="http://psicoterapiacastellon.es/assets/js/app.js?1378043259"></script>
+  <ul id="social_side_links" class="hide-for-small">
+    <li><a target="_blank" href="http://www.facebook.com/psicocastellon"><img src="http://psicoterapiacastellon.es/assets/img/icons/facebook.png?1350729705" alt="" /></a></li>
+    <li><a target="_blank" href="http://blog.psicoterapiacastellon.es"><img src="http://psicoterapiacastellon.es/assets/img/icons/blogger.png?1350729705" alt="" /></a></li>
+    <li class="last"><a href="http://psicoterapiacastellon.es/contacto"><img src="http://psicoterapiacastellon.es/assets/img/icons/email.png?1350729705" alt="" /></a></li>
+  </ul>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26471795-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+</body>
+</html>
